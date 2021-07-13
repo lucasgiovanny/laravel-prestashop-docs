@@ -1,0 +1,1 @@
+<img src="/assets/img/laravel-prestashop.png" alt="Laravel Prestashop" width="300">
