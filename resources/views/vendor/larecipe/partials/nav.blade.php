@@ -11,10 +11,10 @@
                 </p>
             </a>
 
-            {{-- <div class="switch">
+            <div class="switch">
                 <input type="checkbox" name="1" id="1" v-model="sidebar" class="switch-checkbox" />
                 <label class="switch-label" for="1"></label>
-            </div> --}}
+            </div>
         </div>
 
         <div class="block mx-4 flex items-center">
