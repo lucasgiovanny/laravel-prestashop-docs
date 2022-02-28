@@ -1,6 +1,7 @@
 # Resources
 
-The package works with any resource provided by Prestashop web service, you can find a details of it on the <a href="https://devdocs.prestashop.com/1.7/webservice/resources/" target="_blank">prestashop documentation</a>.
+The package works with any resource provided by Prestashop web service, 
+you can find a details of it on the <a href="https://devdocs.prestashop.com/1.7/webservice/resources/" target="_blank">prestashop documentation</a>.
 
 ```php
 use Lucasgiovanny\LaravelPrestashop\Facades\Prestashop;
